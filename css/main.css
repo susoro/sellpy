@@ -32,6 +32,7 @@ a:hover, a:active {text-decoration: none; color: #fff;}
 .sellpy-mainvisual-desc h2{font-size: 3.0em; color: #0662c7; margin-bottom:20px}
 .desc-redline{width: 130px; height: 9px; background-color:#d14124;}
 .sellpy-mainvisual-desc p{font-size: 1.2em; margin-bottom: 25px; letter-spacing: -0.3px;}
+.sellpy-mainvisual-desc span{text-decoration: line-through; text-decoration-color: #d14124; text-decoration-thickness: 7px;}
 .sellpy-mainvisual-desc button{border-style: none;padding: 10px 30px;
 font-size: 1em; border: 1px solid #333; background:none; cursor: pointer;transition:.3s;}
 .sellpy-mainvisual-desc button:hover{ color: rgb(51, 51, 51,0.8);}
