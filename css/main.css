@@ -65,6 +65,7 @@ font-size: 1em; border: 1px solid #333; background:none; cursor: pointer;transit
 /* footer */
 .sellpy-footer{margin-top: 150px; background-color: #f8f8f8; height:40.650vh;}
 .sellpy-footer-lists{display: flex;margin-top: 100px; justify-content: space-between;}
+.sellpy-footer-lists li{margin: 5px 0;}
 .sellpy-footer-inner{display:flex; justify-content: center;}
 .sellpy-footer .sellpy-footer-lists li a{color: #333;}
 .sellpy-footer-inner li{margin-right: 20px;}
